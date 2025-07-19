@@ -1,6 +1,6 @@
 const fetch = require('node-fetch');
 
-const API_KEY = '7c6fb4aadb97542cf8ab2b92ddd8cca221d42ceeab2d4b77fbaa419feac0b824';
+const API_KEY = '*******************************************************';  // API Key
 const endpoint = 'https://api.ashbyhq.com/candidate.create';
 
 // Convert API key to Basic Auth format: base64("API_KEY:")
